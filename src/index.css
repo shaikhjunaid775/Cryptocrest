@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --btn-gradent-yellow: #fac422;
+  --btn-gradent-orange: #f84804;
+}
